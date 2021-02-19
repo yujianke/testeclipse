@@ -1,11 +1,11 @@
 package war;
 
-import junit.framework.Test;
+import ju`11``1`1nit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit test for simple App.
+ * Unit2121212121211212 test for simple App.
  */
 public class AppTest 
     extends TestCase
